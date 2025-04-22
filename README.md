@@ -1,1 +1,1 @@
-# CSC8508
+Game developed within a team of eight for Newcastle University's CSC8508 module. My main responsibiltiy was to implement networking.
